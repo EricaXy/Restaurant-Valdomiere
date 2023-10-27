@@ -21,6 +21,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import valdomiere1 from '../assets/valdomiere1.png';
+import val from '../assets/val.png';
+import V from '../assets/V.png';
 
 export default {
   bg,
@@ -46,4 +48,6 @@ export default {
   quote,
   gericht,
   valdomiere1,
+  val,
+  V,
 };
