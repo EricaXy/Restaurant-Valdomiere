@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Valdomiere/static/css/main.f7e2f850.css",
+    "main.js": "/Restaurant-Valdomiere/static/js/main.b8fe8fa1.js",
+    "static/media/meal.mp4": "/Restaurant-Valdomiere/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Restaurant-Valdomiere/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/Restaurant-Valdomiere/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/Restaurant-Valdomiere/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/Restaurant-Valdomiere/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/Restaurant-Valdomiere/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/Restaurant-Valdomiere/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/Restaurant-Valdomiere/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/Restaurant-Valdomiere/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/Restaurant-Valdomiere/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/Restaurant-Valdomiere/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/Restaurant-Valdomiere/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Restaurant-Valdomiere/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/valdomiere1.png": "/Restaurant-Valdomiere/static/media/valdomiere1.c3ab04622b159a54a0a3.png",
+    "static/media/val.png": "/Restaurant-Valdomiere/static/media/val.f6c8c39bc0f4442b0ab8.png",
+    "static/media/G.png": "/Restaurant-Valdomiere/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/V.png": "/Restaurant-Valdomiere/static/media/V.d94c611206d962baa661.png",
+    "static/media/logo.png": "/Restaurant-Valdomiere/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Restaurant-Valdomiere/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Restaurant-Valdomiere/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Restaurant-Valdomiere/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Restaurant-Valdomiere/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Restaurant-Valdomiere/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Restaurant-Valdomiere/index.html",
+    "static/media/spoon.svg": "/Restaurant-Valdomiere/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.f7e2f850.css.map": "/Restaurant-Valdomiere/static/css/main.f7e2f850.css.map",
+    "main.b8fe8fa1.js.map": "/Restaurant-Valdomiere/static/js/main.b8fe8fa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e2f850.css",
+    "static/js/main.b8fe8fa1.js"
+  ]
+}
